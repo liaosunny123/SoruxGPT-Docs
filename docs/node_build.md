@@ -83,6 +83,7 @@ docker-compose up -d
 
 - 绑定域名：请为你的容器绑定一个域名，并且使用 TLS 证书，对于这个例子，你可以通过 `https://node.ai.com` 访问你的程序
 - 绑定节点：请在 SoruxGPT 中的 节点管理/新建节点中，新建你的节点。请注意，节点链接填写为 `node.ai.com` 而不是带有 `https/http` 前缀。
+- 绑定账号：访问节点，例如 `https://node.ai.com/getsession` 填写账号密码和管理员密码，导入你的 OpenAI 账号
 
 :::tip
 
