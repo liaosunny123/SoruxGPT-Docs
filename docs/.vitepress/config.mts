@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '使用教程', link: '/concepts' }
+      { text: '使用教程', link: '/concepts' },
+      { text: '联系我们', link: '/contacts' }
     ],
 
     sidebar: [
@@ -36,7 +37,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/liaosunny123/Sorux-GPT-Panel' }
     ]
   }
 })
