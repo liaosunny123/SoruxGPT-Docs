@@ -10,7 +10,7 @@ hero:
       link: /concepts
     - theme: alt
       text: 加入用户群
-      link: /api-examples
+      link: /contacts
 
 features:
   - title: 功能全面
