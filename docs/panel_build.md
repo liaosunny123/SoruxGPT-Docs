@@ -113,3 +113,7 @@ docker-compose up -d
 ```
 
 此时，你可以通过 `docker ps` 查看容器状态，此时容器组应该被运行了，恭喜你搭建成功。
+
+:::tip
+初始账号为：admin，初始密码为：admin
+:::
