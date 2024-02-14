@@ -9,8 +9,8 @@ hero:
       text: 开始使用
       link: /concepts
     - theme: alt
-      text: 加入用户群
-      link: /contacts
+      text: 官方站点
+      link: https://gpt.sorux.cn/
 
 features:
   - title: 功能全面
